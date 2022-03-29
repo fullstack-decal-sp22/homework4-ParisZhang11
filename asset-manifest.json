@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework4-ParisZhang11/static/css/main.d7c36836.css",
+    "main.js": "/homework4-ParisZhang11/static/js/main.6aed40a0.js",
+    "index.html": "/homework4-ParisZhang11/index.html",
+    "main.d7c36836.css.map": "/homework4-ParisZhang11/static/css/main.d7c36836.css.map",
+    "main.6aed40a0.js.map": "/homework4-ParisZhang11/static/js/main.6aed40a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c36836.css",
+    "static/js/main.6aed40a0.js"
+  ]
+}
